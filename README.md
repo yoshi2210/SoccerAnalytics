@@ -18,6 +18,9 @@
 - Event data analysis
     A code using simple logic using open tracking data are cnsidered.
 
+When it comes to broadcast video analysis, the movie tells me a lot.
+https://www.youtube.com/watch?v=N9qZ-I63BL8
+
 
 # Reference
 ## survey thesis
