@@ -1,22 +1,22 @@
 # SoccerAnalytics
- Due to the chaotic nature of soccer as an one of the invasive sports, machine learning analysis methods have become in a current challenge to decision-making based on scientific evidence. We would have wide range of challenges about team tactics, player's physical or mental maintenance as peaking, or balance of cost and performance as talent acquisitions, etc. In this section, we focus on team tactics based on tracking and event data.
+ Due to the chaotic nature of soccer as one of the invasive sports, machine learning analysis methods have become a current challenge to decision-making based on scientific evidence. We would have a wide range of challenges regarding team tactics, players' physical or mental maintenance as peaking, and balance of cost and performance as talent acquisitions, etc. In this section, we focus on team tactics based on tracking and event data.
 
- The pipeline of analytics are defined as below.
+ The pipeline of analytics is defined below.
  
 - Calibration of single or multiple sensors including a camera    
     no code as of today.
 - Object Detection and Tracking
     A code using YOLO + StrongSort are considered.
 - Data as camera coordinate analysis
-    no code as of today, but it's not common process to have analysis by camera 
+    no code as of today, but it's not common process to have analysis by a camera 
 - Homography
     no code as of today.
 - Ground positional data analysis
-    A code using open tracking data are considered.
+    A code using open tracking data is considered.
 - Event data classification
-    no code as of today.
+    No code as of today.
 - Event data analysis
-    A code using simple logic using open tracking data are cnsidered.
+    A code using simple logic using open tracking data is cnsidered.
 
 When it comes to broadcast video analysis, the movie tells me a lot.
 https://www.youtube.com/watch?v=N9qZ-I63BL8
